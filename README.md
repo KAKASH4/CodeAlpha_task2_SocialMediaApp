@@ -45,6 +45,6 @@ Database: `Sqlite3`
 
 
 
-**7. Create a user profile page**
+**3. Create a user profile page**
 
 ![Create user profile](https://user-images.githubusercontent.com/84091455/208101772-e022f7ee-5c8f-4799-b0be-b5d43effd1d9.png)
